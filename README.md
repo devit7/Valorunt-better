@@ -14,7 +14,7 @@ Better Valorant adalah keju eksternal untuk Valorant yang dilengkapi dengan berb
 
 - **Auto Stop**: Fitur ini dapat membantu Anda menghentikan karakter Anda secara otomatis untuk meningkatkan akurasi tembakan.
 
-- **Anti AFK**: Cheat ini dilengkapi dengan Anti-AFK untuk menghindari karakter Anda dikeluarkan dari permainan karena tidak aktif.
+- **Anti AFK**: Keju ini dilengkapi dengan Anti-AFK untuk menghindari karakter Anda dikeluarkan dari permainan karena tidak aktif.
 
 - **Sniper Mode**: Sniper Mode akan membantu Anda mengatur senjata secara otomatis untuk meningkatkan ketepatan tembakan jarak jauh.
 
@@ -39,7 +39,7 @@ Untuk menggunakan Better Valorant, Anda dapat mengikuti langkah-langkah berikut:
 3. [Langkah 3]
 4. [Langkah 4]
 
-Pastikan untuk mengikuti panduan instalasi dan penggunaan dengan benar agar Anda dapat mengoptimalkan fitur-fitur cheat ini.
+Pastikan untuk mengikuti panduan instalasi dan penggunaan dengan benar agar Anda dapat mengoptimalkan fitur-fitur keju ini.
 
 ## Tampilan UI
 
