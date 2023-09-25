@@ -53,6 +53,6 @@ Antarmuka pengguna Better Valorant didesain untuk memudahkan pengguna dalam meng
 
 **Catatan**: Penggunaan Keju dalam permainan dapat melanggar ketentuan penggunaan (Terms of Service) dari Valorant atau platform game lainnya. Gunakan keju ini dengan risiko Anda sendiri, dan kami tidak bertanggung jawab atas konsekuensi yang mungkin terjadi.
 
-Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau masalah dengan penggunaan cheat ini.
+Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau masalah dengan penggunaan keju ini.
 
 Terima kasih telah menggunakan Better Valorant!
