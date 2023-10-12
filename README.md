@@ -1,6 +1,6 @@
 # Better Valorant
 
-![Better Valorant Logo](https://lh3.googleusercontent.com/drive-viewer/AITFw-xs3sXD_sBmT1ONKKUnYLSqsACt8QBdJXjaHyWRKfa8cp8DnYn-AU5nJIam05E_miurROTV9vxmxTTU_fm2_cYZVVze4Q=s1600)
+![Better Valorant Logo](https://iili.io/J27uR5l.png)
 
 Better Valorant adalah keju eksternal untuk Valorant yang dilengkapi dengan berbagai fitur yang dapat meningkatkan pengalaman bermain Anda. Keju ini dirancang untuk tidak dapat terdeteksi oleh sistem Anti-Keju Valorant, sehingga Anda dapat menggunakan fiturnya tanpa risiko terkena banned.
 
